@@ -1,0 +1,116 @@
+<!--
+  ╔═══════════════════════════════════════════════════════════╗
+  ║  ⚔️ BERSERK PROFILE - GitHub Profile README ⚔️            ║
+  ║     Forjado no Abismo do Código                           ║
+  ╚═══════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+![Berserk Banner](https://capsule-render.vercel.app/api?type=waving&color=8B0000:0a0a0a&height=300&section=header&text=guijoioj&fontSize=90&font=Bangers&fontColor=C0C0C0&animation=twinkling)
+
+# ⚔️ Black Swordsman Developer
+
+![Profile Views](https://komarev.com/ghpvc/?username=guijoioj&style=flat&color=8B0000)
+![GitHub Followers](https://img.shields.io/github/followers/guijoioj?style=flat&logo=github&color=8B0000&labelColor=0a0a0a)
+
+> *"Lute. Até você morrer. Lute até vencer!"* — **Guts**
+
+</div>
+
+---
+
+## 🗡️ Sobre Mim
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guijoioj&show_icons=true&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=8B0000&icon_color=8B0000&text_color=e0e0e0)
+
+</div>
+
+Desenvolvedor full-stack apaixonado por criar ecossistemas digitais completos. Especialista em transformar ideias complexas em sistemas elegantes e funcionais.
+
+---
+
+## ⚡ Projetos Principais
+
+<div align="center">
+
+| **SoftHair** | **softhair-mobile** |
+|:---:|:---:|
+| 🖥️ Desktop App | 📱 Mobile App |
+| Sistema completo de gestão para salões de beleza | App para clientes e profissionais |
+| `Electron + React + Node.js + PostgreSQL` | `React Native + Expo + TypeScript` |
+
+[![SoftHair Stats](https://github-readme-stats.vercel.app/api/pin/?username=guijoioj&repo=SoftHair&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=8B0000&icon_color=8B0000&text_color=e0e0e0)](https://github.com/guijoioj/SoftHair)
+[![softhair-mobile Stats](https://github-readme-stats.vercel.app/api/pin/?username=guijoioj&repo=softhair-mobile&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=8B0000&icon_color=8B0000&text_color=e0e0e0)](https://github.com/guijoioj/softhair-mobile)
+
+</div>
+
+---
+
+## 🛠️ Habilidades de Combate
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0a&labelColor=0a0a0a)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0a0a0a)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0a0a0a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0a0a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0a)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=0a0a0a)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0a0a0a)
+
+</div>
+
+---
+
+## 🌟 Visite Meu Perfil Completo
+
+<div align="center">
+
+[![Visitar Perfil Berserk](https://img.shields.io/badge/⚔️-Visitar%20Perfil%20Berserk-8B0000?style=for-the-badge&logo=github&logoColor=C0C0C0)](https://guijoioj.github.io/github-profile/)
+
+**👆 Clique acima para experimentar o perfil interativo com:**
+- 🐍 Dragon Slayer Game (Snake temático)
+- 💀 Terminal Interativo
+- 📊 Estatísticas em tempo real
+- 📜 Quotes do Berserk
+- ✨ Efeitos visuais épicos
+
+</div>
+
+---
+
+## 📜 Palavras do Cavaleiro Negro
+
+<div align="center">
+
+> *"Se você está sempre pensando em desistir, você já desistiu."*
+
+> *"Eu não acredito em sonhos. Eu os faço realidade."*
+
+> *"A única maneira de realmente viver é lutar contra o destino."*
+
+</div>
+
+---
+
+## 🔗 Conexões
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=C0C0C0)](https://github.com/guijoioj)
+
+</div>
+
+---
+
+<div align="center">
+
+**Forjado no Abismo do Código** © 2026
+
+![Snake Game High Score](https://img.shields.io/badge/🐍-Dragon%20Slayer%20High%20Score-8B0000?style=for-the-badge)
+
+</div>
