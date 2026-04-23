@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Berserk Banner](https://capsule-render.vercel.app/api?type=waving&color=8B0000:0a0a0a&height=300&section=header&text=guijoioj&fontSize=90&font=Bangers&fontColor=C0C0C0&animation=twinkling)
+![Banner](https://img.shields.io/badge/⚔️-guijoioj-8B0000?style=for-the-badge&labelColor=0a0a0a&color=8B0000)
 
 # ⚔️ Black Swordsman Developer
 
