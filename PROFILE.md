@@ -46,6 +46,10 @@ Desenvolvedor full-stack apaixonado por criar ecossistemas digitais completos. E
 [![SoftHair](https://img.shields.io/badge/🖥️-SoftHair-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guijoioj/SoftHair)
 [![softhair-mobile](https://img.shields.io/badge/📱-softhair--mobile-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guijoioj/softhair-mobile)
 
+![Private Repo](https://img.shields.io/badge/🔒-Private%20Repository-8B0000?style=for-the-badge&labelColor=0a0a0a)
+![Commits](https://img.shields.io/badge/📊-500+%20Commits-8B0000?style=for-the-badge&labelColor=0a0a0a)
+![Stack](https://img.shields.io/badge/🛠️-TypeScript%20%7C%20React%20%7C%20Node.js-8B0000?style=for-the-badge&labelColor=0a0a0a)
+
 </div>
 
 ---
