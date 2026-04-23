@@ -24,7 +24,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guijoioj&show_icons=true&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=8B0000&icon_color=8B0000&text_color=e0e0e0)
+![Status](https://img.shields.io/badge/⚔️-Black%20Swordsman%20Developer-8B0000?style=for-the-badge&labelColor=0a0a0a)
+![Code](https://img.shields.io/badge/💻-Full--Stack%20Developer-8B0000?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
@@ -42,8 +43,8 @@ Desenvolvedor full-stack apaixonado por criar ecossistemas digitais completos. E
 | Sistema completo de gestão para salões de beleza | App para clientes e profissionais |
 | `Electron + React + Node.js + PostgreSQL` | `React Native + Expo + TypeScript` |
 
-[![SoftHair Stats](https://github-readme-stats.vercel.app/api/pin/?username=guijoioj&repo=SoftHair&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=8B0000&icon_color=8B0000&text_color=e0e0e0)](https://github.com/guijoioj/SoftHair)
-[![softhair-mobile Stats](https://github-readme-stats.vercel.app/api/pin/?username=guijoioj&repo=softhair-mobile&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=8B0000&icon_color=8B0000&text_color=e0e0e0)](https://github.com/guijoioj/softhair-mobile)
+[![SoftHair](https://img.shields.io/badge/🖥️-SoftHair-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guijoioj/SoftHair)
+[![softhair-mobile](https://img.shields.io/badge/📱-softhair--mobile-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guijoioj/softhair-mobile)
 
 </div>
 
@@ -112,5 +113,7 @@ Desenvolvedor full-stack apaixonado por criar ecossistemas digitais completos. E
 **Forjado no Abismo do Código** © 2026
 
 ![Snake Game High Score](https://img.shields.io/badge/🐍-Dragon%20Slayer%20High%20Score-8B0000?style=for-the-badge)
+
+</div>
 
 </div>
